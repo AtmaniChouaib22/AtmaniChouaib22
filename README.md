@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chouaib Atmani</h1>
 <h3 align="center">A Computer science student and Web Developer</h3>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e7" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atmanichouaib22" alt="atmanichouaib22" /></a> </p>
 
