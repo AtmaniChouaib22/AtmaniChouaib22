@@ -1,6 +1,5 @@
 ## **Hey 👋, I'm Chouaib Atmani!**  
   
-
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/iamrishavanand" target="_blank">
