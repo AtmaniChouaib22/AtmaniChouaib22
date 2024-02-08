@@ -1,4 +1,4 @@
-## **Hey 👋, I'm Chouaib Atmani!**  
+## **Hey 👋, I'm Chouaib !**  
   
 ## Connect with me  
 <div align="center">
@@ -24,15 +24,6 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-
-### Glad to see you here!  
-👋 Hello fellow developers! I'm Chouaib, a computer science enthusiast currently navigating the exciting challenges of university life at NTIC . My coding journey is a mosaic of diverse interests and skills, with a focus on full-stack web development. I derive immense joy from crafting elegant solutions and diving into the intricacies of both frontend and backend development. Whether it's bringing user interfaces to life, optimizing database structures, or tackling algorithmic puzzles, I'm always eager to explore new horizons in the vast landscape of software engineering. Join me on this coding odyssey as we transform ideas into reality, one line of code at a time! 💻✨  
-  
-
-<br/>  
 
 
 
