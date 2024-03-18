@@ -30,7 +30,7 @@
 <br/>  
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vite,react,sass,nodejs,express,mongodb,postman,linux,pug,webpack,vscode,ubuntu,powershell,bash,npm,netlify,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,vite,react,nodejs,express,mongodb,postman,linux,pug,webpack,vscode,ubuntu,npm,netlify,git,github)](https://skillicons.dev)
 
 <br/>  
 
